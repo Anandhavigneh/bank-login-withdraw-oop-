@@ -2,10 +2,10 @@ user_id="vicky"
 password="tomcr7"
 amount=10000
 
-user_input=(input("enter the user name: "))
+user_input=(input("enter the user name:\n "))
 
 if user_id==user_input:
-    user_pass=(input("enter the user name: "))
+    user_pass=(input("enter the user name:\n "))
 
     if password==user_pass:
         print("your login successful")
