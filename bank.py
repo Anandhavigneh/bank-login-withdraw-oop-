@@ -9,7 +9,7 @@ if user_id==user_input:
 
     if password==user_pass:
         print("your login successful")
-        withdraw=int(input("enter you withdraw amount: "))
+        withdraw=int(input("enter you withdraw amount:\n "))
 
         if withdraw <= amount:
             amount-=withdraw
