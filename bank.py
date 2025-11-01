@@ -1,5 +1,5 @@
-user_id="vickycr7"
-password="vickycr77"
+user_id="vicky"
+password="tomcr7"
 amount=10000
 
 user_input=(input("enter the user name: "))
